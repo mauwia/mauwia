@@ -17,4 +17,4 @@ Stack 📘
 
 My last work was [Performance Monitor](https://github.com/mauwia/Perfomance-Monitor) and [Chat App(MERN)](https://github.com/mauwia/MERN-CHAT-APP) check repository and hit star ⭐
 
-Thats All forks🙌
+Thats All folks🙌
