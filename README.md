@@ -5,7 +5,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Microservices Applications
 - 🌱 I’m currently learning Data Science
-- 💬 Ask me any thing JS
+- 💬 Ask me any thing about JS
 - 📫 How to reach me: mauwia.atif@gmail.com
 
 Stack 📘
