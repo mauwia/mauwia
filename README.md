@@ -1,5 +1,5 @@
 ### Assalam u Allaikum 👋
-  I'm  CSIT Student in NED 🎓 from where I started my journey in 2017 I work on many semester projects also work on some side projects 💻.I can develop MERN Stack           Application but my main focus is mainly front end.Inshort a motivated frontend  developer and supportive team member✨
+  I'm  CSIT Student in NED 🎓 from where I started my journey in 2017 I work on many semester projects also work on some side projects 💻.I can develop MERN Stack           Application but my main focus is  front end.Inshort a motivated frontend  developer and supportive team member✨
 
 Here are some ideas to get you started:
 
