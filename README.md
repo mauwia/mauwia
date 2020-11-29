@@ -8,6 +8,8 @@ Here are some ideas to get you started:
 - 💬 Ask me any thing about JS
 - 📫 How to reach me: mauwia.atif@gmail.com
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mauwia)](https://github.com/anuraghazra/github-readme-stats)
+
 Stack 📘
 
 - 📌 HTML/CSS/SASS
