@@ -19,7 +19,7 @@ Stack 📘
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mauwia&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Mauwia's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mauwia)](https://github.com/anuraghazra/github-readme-stats
+[![Mauwia's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mauwia)](https://github.com/anuraghazra/github-readme-stats)
 
 My last work was [Performance Monitor](https://github.com/mauwia/Perfomance-Monitor) and [Chat App(MERN)](https://github.com/mauwia/MERN-CHAT-APP) check repository and hit star ⭐
 
