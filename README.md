@@ -21,12 +21,14 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) &nbsp; ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) &nbsp; ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
  &nbsp; ![Nestjs](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
   &nbsp; ![Socketio](https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white)
+   &nbsp; ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)   &nbsp; ![RabbitMQ](	https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white)
 
 ## 👉 Blockchain & Tools 
 
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white) &nbsp; ![Web3 js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) &nbsp; ![Solana](https://img.shields.io/badge/solana-%23007ACC.svg?style=for-the-badge&logo=solana&logoColor=white&color=1a1e99)
  &nbsp; ![Anchor](https://img.shields.io/badge/anchor-E0234E?style=for-the-badge&logo=anchor&logoColor=white)
   &nbsp; ![Graph Protocol]( https://img.shields.io/badge/GraphProtocol-%23007ACC.svg?style=for-the-badge&logo=TheGraph&logoColor=white&color=630b5f)
+    &nbsp; ![OpenZeppelin](https://img.shields.io/badge/OpenZeppelin-4E5EE4?logo=OpenZeppelin&logoColor=fff&style=for-the-badge) &nbsp; ![Chainlink](https://img.shields.io/badge/chainlink-375BD2?style=for-the-badge&logo=chainlink&logoColor=white)
  
 
 ## 👉 Databases & Cloud Hosting
