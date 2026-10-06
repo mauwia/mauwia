@@ -57,6 +57,6 @@ npx hi-mavia
 ```
 
 <p align="center">
-  <img alt="Mavia's GitHub stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mauwia&show_icons=true&count_private=true&theme=nightowl&hide_border=true&bg_color=0D1117" width="440" />
-  <img alt="Mavia's top languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mauwia&langs_count=8&layout=compact&theme=nightowl&hide_border=true&bg_color=0D1117" width="340" />
+  <img alt="Mavia's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=mauwia&show_icons=true&theme=nightowl&hide_border=true&bg_color=0D1117" width="440" />
+  <img alt="Mavia's top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauwia&langs_count=8&layout=compact&theme=nightowl&hide_border=true&bg_color=0D1117" width="340" />
 </p>
